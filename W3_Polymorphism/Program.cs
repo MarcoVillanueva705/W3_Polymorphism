@@ -53,4 +53,9 @@ namespace W3_Polymorphism
         //keyword to the method inside the base class, and by using the override keyword 
         //for each derived class methods:
     }
+    //Why And When To Use "Inheritance" and "Polymorphism"?
+    //-It is useful for code reusability: reuse fields and methods 
+    //of an existing class when you create a new class.
+
+
 }
